@@ -7,20 +7,8 @@
     "license": "GPL-2.0",
     "authors": [
         {
-            "name": "Mark Jeftovic",
-            "email": "markjr@easydns.com"
-        },
-        {
-            "name": "David Saez Padros",
-            "email": "david@ols.es"
-        },
-        {
-            "name": "Ross Golder",
-            "email": "ross@golder.org"
-        },
-        {
-            "name": "Dmitry Lukashin",
-            "email": "dmitry@lukashin.ru"
+            "name": "PrestTEC",
+            "email": "ramonaol.presttec@gmail.com"
         }
     ],
     "minimum-stability": "dev",
